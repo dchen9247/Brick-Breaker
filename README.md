@@ -22,8 +22,6 @@ Control the paddle to bounce the ball and break all the bricks! The game ends wh
 
 ## 🖼 Screenshots
 
-| Gameplay | Gameover |
-|------------|------------|
 | ![Screenshot 1](./gamePreviews/gameScreen.png) | ![Screenshot 2](./gamePreviews/endScreen.png) |
 
 ---
